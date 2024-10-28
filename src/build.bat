@@ -1,0 +1,2 @@
+mingw32-make PLATFORM_OS=WINDOWS PLATFORM=PLATFORM_WEB -B
+python -m http.server 8080
